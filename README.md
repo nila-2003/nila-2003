@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**nila-2003/nila-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently pursuing B. Tech in SRM Institute. 
+- 🌱 I’m currently working on Machine learning projects
+- 🤔 Learning Deep learning. 
+- 👉 Would love to collaborate with you for projects. 
+
+-- Skills
+
+🎯 Machine learning 
+🎯 React. js
+🎯 Flask
+🎯 Tailwind css
+🎯 Deep learning
