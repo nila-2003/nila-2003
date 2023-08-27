@@ -7,7 +7,7 @@
 - 🤔 Learning Deep learning. 
 - 👉 Would love to collaborate with you for projects. 
 
--- Skills
+##### Skills
 
 🎯 Machine learning 
 🎯 React. js
