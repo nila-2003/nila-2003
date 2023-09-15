@@ -2,18 +2,19 @@
 
 
 
-- 🔭 I’m currently pursuing B. Tech in SRM Institute. 
+- 🔭 I’m currently pursuing B. Tech. 
 - 🌱 I’m currently working on Machine learning projects
-- 🤔 Learning Deep learning. 
-- 👉 Would love to collaborate with you for projects. 
+- 🤔 Learning Deep learning and NLP. 
+- 👉 I love contributing to open source.
 
 ### Skills
 
 🎯 Machine learning 
+🎯 Deep learning
 🎯 React. js
 🎯 Flask
 🎯 Tailwind css
-🎯 Deep learning
+
 
 
 
