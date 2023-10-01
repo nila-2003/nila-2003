@@ -11,9 +11,11 @@
 
 🎯 Machine learning 
 🎯 Deep learning
+🎯 Data Analysis
 🎯 React. js
 🎯 Flask
 🎯 Tailwind css
+
 
 
 
