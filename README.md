@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently pursuing B. Tech. 
-- 🌱 I’m currently working on Machine learning projects
-- 🤔 Learning Deep learning and NLP. 
+- 🌱 Working on Machine learning , Deep Learning and Data Science projects
+- 🤔 Learning NLP. 
 - 👉 I love contributing to open source.
 
 ### Skills
