@@ -7,14 +7,6 @@
 - 🤔 Learning NLP. 
 - 👉 I love contributing to open source.
 
-### Skills
-
-🎯 Machine learning 
-🎯 Deep learning
-🎯 Data Analysis
-🎯 React. js
-🎯 Flask
-🎯 Tailwind css
 
 
 
