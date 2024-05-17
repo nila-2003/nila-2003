@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 Working with NNs.
-- 🌱 Learning DevOps.
-- 🤔 Creating LLMs.
+🔭 Working with NNs.
+<br>
+🌱 Learning DevOps.
+<br>
+🤔 Creating LLMs.
 
 
 
